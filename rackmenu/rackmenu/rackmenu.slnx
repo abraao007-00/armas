@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rackmenu.vcxproj" Id="5e71858e-9fa6-4045-b310-31cdaa2645ff" />
+</Solution>

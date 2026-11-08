@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rackdrivr.vcxproj" Id="6c4ca68b-dc01-45ba-9437-23901229e774" />
+</Solution>
